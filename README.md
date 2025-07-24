@@ -1,7 +1,7 @@
 # 🕒 Relógio Digital
 Um relógio digital simples e estilizado com HTML, CSS e JavaScript, exibindo horas, minutos e segundos em tempo real.
 
-<img width="1366" height="640" alt="image" src="https://github.com/user-attachments/assets/28f4d4fe-0002-41d0-90f5-e3c3d84204cc" />
+<img width="1366" height="640" alt="image" src="https://github.com/user-attachments/assets/6d1a3dc6-4b02-425f-a29b-a085f3687396" />
 
 ## 🚀 Funcionalidades
 * ⏱ Atualização em tempo real dos segundos, minutos e horas.
